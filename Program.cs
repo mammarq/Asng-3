@@ -10,7 +10,7 @@ namespace COMP10066_Lab3
      * see http://www.calculator.net/standard-deviation-calculator.html
      * for sample standard deviation calculations
      *
-     * @author Joey Programmer
+     * @author Joey Programmer,,,,,,,,,,
      */
 
     public class A3
